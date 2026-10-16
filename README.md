@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Moin Jariwala 👋
 
-<!--
-**moinjariwala14-byte/moinjariwala14-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Software Developer | Web Applications & REST APIs
+Passionate about building scalable web platforms, backend architectures, and database-driven management systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+- **Languages:** JavaScript (ES6+), PHP, SQL, HTML5, CSS3, Bash
+- **Frameworks & Libraries:** React, Node.js, Express.js, Laravel, Tailwind CSS, Bootstrap, jQuery
+- **Databases:** MongoDB, MySQL, Microsoft SQL Server
+- **Tools & Environments:** Git, GitHub, Linux (Ubuntu/WSL), Postman, VS Code, XAMPP
+
+---
+
+### 🚀 Featured Projects
+- **LifePulse (Blood Donation Platform):** Full-stack management system with role-based auth and automated reporting (Node.js, Express, MongoDB).
+- **RaktKosh Management System:** Relational database application built with PHP, Laravel, and MySQL.
+- **Audio & Media Streaming Player:** Interactive client-side audio player with custom controls and playlist management.
+
+---
+
+### 📬 Connect With Me
+- **Email:** moinjariwala536@gmail.com
+- **LinkedIn:** [[Visit My LinkedIn Profile](https://www.linkedin.com)
+](https://www.linkedin.com/in/moin-jariwala-8587723a0?utm_source=share_via&utm_content=profile&utm_medium=member_android)
